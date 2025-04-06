@@ -1,2 +1,1 @@
-# KW_CV_homework
-2025년 1학기 광운대학교 컴퓨터비전 강의 과제 레포
+# 2025-1 KWU Computer-Vision
